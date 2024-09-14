@@ -1,4 +1,4 @@
-## ** Cinema Nacional: Sua Sessão de Filmes Favoritos!** 
+## Cinema Nacional: Sua Sessão de Filmes Favoritos!** 
 
 **O que faz essa aplicação ser tão legal?**
 
